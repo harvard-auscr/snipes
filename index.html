@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="light dark">
+<title>HAUSCR snipe standings</title>
+<link rel="icon" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="preload" href="fonts/archivo.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="band">
+  <div class="wrap">
+    <img class="wordmark" src="wordmark.png" alt="HAUSCR" width="150" height="40">
+    <h1>Snipe<br>standings</h1>
+    <p class="sub"><span id="semester">This semester</span> · #sibfam-sniping</p>
+    <dl class="totals" aria-label="Season totals">
+      <div><dt>snipes</dt><dd data-count id="t-snipes">–</dd></div>
+      <div><dt>selfies</dt><dd data-count id="t-selfies">–</dd></div>
+      <div><dt>on the board</dt><dd data-count id="t-players">–</dd></div>
+    </dl>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="status" id="status" role="status">Loading the standings…</p>
+  <noscript><p class="status">The standings need JavaScript to load.</p></noscript>
+
+  <section class="board" aria-labelledby="h-board" hidden id="board-section">
+    <div class="board-head">
+      <h2 id="h-board">Leaderboard</h2>
+      <div class="views" role="tablist" aria-label="Period">
+        <button type="button" role="tab" id="tab-season" aria-selected="true" aria-controls="board">Season</button>
+        <button type="button" role="tab" id="tab-week" aria-selected="false" aria-controls="board">This week</button>
+      </div>
+    </div>
+    <p class="leader" id="leader"></p>
+    <ol class="ranks" id="board" role="tabpanel" aria-labelledby="h-board"></ol>
+    <button type="button" class="more" id="more" hidden></button>
+  </section>
+
+  <div class="pair" hidden id="side">
+    <section aria-labelledby="h-sibfams">
+      <h2 id="h-sibfams">Sibfam race</h2>
+      <p class="note">Points per member, so a smaller sibfam isn't behind for being small.</p>
+      <ol class="bars" id="sibfams"></ol>
+    </section>
+    <section aria-labelledby="h-sniped">
+      <h2 id="h-sniped">Most sniped</h2>
+      <p class="note">Times caught on camera this season.</p>
+      <ol class="plain" id="sniped"></ol>
+    </section>
+  </div>
+
+  <footer>
+    <h2>How points work</h2>
+    <p>A snipe is a photo of someone posted in #sibfam-sniping with them tagged: 1 point per person tagged.
+      A selfie with your sibs scores 1 for each sib tagged plus 1 for the photo, and each sib in it gets 1.
+      Snipes during the general meeting don't count, and two people can't score off each other again
+      within 15 minutes.</p>
+    <p class="fine" id="updated"></p>
+  </footer>
+</main>
+</body>
+</html>
