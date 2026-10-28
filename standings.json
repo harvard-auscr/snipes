@@ -1,0 +1,722 @@
+{
+ "semester": "Fall 2026",
+ "latest_snipe": "2026-11-14T02:03-05:00",
+ "totals": {
+  "snipes": 2600,
+  "selfies": 183,
+  "players": 53
+ },
+ "season": [
+  {
+   "rank": 1,
+   "name": "Benjamin M.",
+   "sibfam": "Sibfam 6",
+   "points": 446,
+   "snipes": 393,
+   "sniped": 78
+  },
+  {
+   "rank": 2,
+   "name": "Suzanne X.",
+   "sibfam": "Sibfam 4",
+   "points": 353,
+   "snipes": 330,
+   "sniped": 56
+  },
+  {
+   "rank": 3,
+   "name": "Kaitlyn C.",
+   "sibfam": "Sibfam 4",
+   "points": 178,
+   "snipes": 171,
+   "sniped": 22
+  },
+  {
+   "rank": 4,
+   "name": "Emmie Z.",
+   "sibfam": "Sibfam 4",
+   "points": 168,
+   "snipes": 137,
+   "sniped": 68
+  },
+  {
+   "rank": 5,
+   "name": "Cecilia X.",
+   "sibfam": "Sibfam 1",
+   "points": 158,
+   "snipes": 157,
+   "sniped": 80
+  },
+  {
+   "rank": 6,
+   "name": "Andrew J.",
+   "sibfam": "Sibfam 6",
+   "points": 130,
+   "snipes": 110,
+   "sniped": 37
+  },
+  {
+   "rank": 7,
+   "name": "Kevin L.",
+   "sibfam": "Sibfam 2",
+   "points": 119,
+   "snipes": 116,
+   "sniped": 109
+  },
+  {
+   "rank": 8,
+   "name": "Sophia L.",
+   "sibfam": "Sibfam 4",
+   "points": 98,
+   "snipes": 88,
+   "sniped": 29
+  },
+  {
+   "rank": 9,
+   "name": "William Z.",
+   "sibfam": "Sibfam 6",
+   "points": 96,
+   "snipes": 58,
+   "sniped": 79
+  },
+  {
+   "rank": 10,
+   "name": "Daniel P.",
+   "sibfam": "Sibfam 2",
+   "points": 91,
+   "snipes": 77,
+   "sniped": 47
+  },
+  {
+   "rank": 11,
+   "name": "Andy Y.",
+   "sibfam": "Sibfam 4",
+   "points": 86,
+   "snipes": 56,
+   "sniped": 112
+  },
+  {
+   "rank": 12,
+   "name": "Katherine C.",
+   "sibfam": "Sibfam 7",
+   "points": 80,
+   "snipes": 73,
+   "sniped": 41
+  },
+  {
+   "rank": 13,
+   "name": "Hannah S.",
+   "sibfam": "Sibfam 7",
+   "points": 77,
+   "snipes": 73,
+   "sniped": 24
+  },
+  {
+   "rank": 14,
+   "name": "Bruce T.",
+   "sibfam": "Sibfam 6",
+   "points": 72,
+   "snipes": 52,
+   "sniped": 81
+  },
+  {
+   "rank": 15,
+   "name": "Emily M",
+   "sibfam": "Sibfam 3",
+   "points": 69,
+   "snipes": 68,
+   "sniped": 9
+  },
+  {
+   "rank": 16,
+   "name": "Andrew C.",
+   "sibfam": "Sibfam 3",
+   "points": 61,
+   "snipes": 53,
+   "sniped": 22
+  },
+  {
+   "rank": 17,
+   "name": "Eric B.",
+   "sibfam": "Sibfam 6",
+   "points": 49,
+   "snipes": 34,
+   "sniped": 91
+  },
+  {
+   "rank": 18,
+   "name": "Cindion H.",
+   "sibfam": "Sibfam 6",
+   "points": 46,
+   "snipes": 34,
+   "sniped": 38
+  },
+  {
+   "rank": 19,
+   "name": "Baochan F.",
+   "sibfam": "Sibfam 5",
+   "points": 43,
+   "snipes": 40,
+   "sniped": 22
+  },
+  {
+   "rank": 20,
+   "name": "Michelle T.",
+   "sibfam": "Sibfam 6",
+   "points": 41,
+   "snipes": 34,
+   "sniped": 47
+  },
+  {
+   "rank": 21,
+   "name": "Alice Y.",
+   "sibfam": "Sibfam 7",
+   "points": 38,
+   "snipes": 38,
+   "sniped": 45
+  },
+  {
+   "rank": 21,
+   "name": "Jordan C.",
+   "sibfam": "Sibfam 2",
+   "points": 38,
+   "snipes": 35,
+   "sniped": 26
+  },
+  {
+   "rank": 23,
+   "name": "Kate W.",
+   "sibfam": "Sibfam 2",
+   "points": 37,
+   "snipes": 34,
+   "sniped": 58
+  },
+  {
+   "rank": 24,
+   "name": "Jonathan M.",
+   "sibfam": "Sibfam 3",
+   "points": 35,
+   "snipes": 34,
+   "sniped": 33
+  },
+  {
+   "rank": 25,
+   "name": "Raiden C.",
+   "sibfam": "Sibfam 1",
+   "points": 34,
+   "snipes": 32,
+   "sniped": 97
+  },
+  {
+   "rank": 26,
+   "name": "Yan L.",
+   "sibfam": "Sibfam 2",
+   "points": 33,
+   "snipes": 24,
+   "sniped": 70
+  },
+  {
+   "rank": 27,
+   "name": "Ellie X.",
+   "sibfam": "Sibfam 3",
+   "points": 31,
+   "snipes": 28,
+   "sniped": 54
+  },
+  {
+   "rank": 28,
+   "name": "Rella W.",
+   "sibfam": "Sibfam 3",
+   "points": 29,
+   "snipes": 26,
+   "sniped": 71
+  },
+  {
+   "rank": 29,
+   "name": "rory l.",
+   "sibfam": "Sibfam 5",
+   "points": 23,
+   "snipes": 22,
+   "sniped": 45
+  },
+  {
+   "rank": 30,
+   "name": "Lola G.",
+   "sibfam": "Sibfam 1",
+   "points": 21,
+   "snipes": 20,
+   "sniped": 39
+  },
+  {
+   "rank": 30,
+   "name": "Katherina H.",
+   "sibfam": "Sibfam 6",
+   "points": 21,
+   "snipes": 18,
+   "sniped": 23
+  },
+  {
+   "rank": 32,
+   "name": "Edison C.",
+   "sibfam": "Sibfam 7",
+   "points": 20,
+   "snipes": 20,
+   "sniped": 30
+  },
+  {
+   "rank": 33,
+   "name": "Mike Y.",
+   "sibfam": "Sibfam 3",
+   "points": 18,
+   "snipes": 17,
+   "sniped": 23
+  },
+  {
+   "rank": 34,
+   "name": "Darren S.",
+   "sibfam": "Sibfam 5",
+   "points": 15,
+   "snipes": 12,
+   "sniped": 6
+  },
+  {
+   "rank": 34,
+   "name": "Claire C.",
+   "sibfam": "Sibfam 4",
+   "points": 15,
+   "snipes": 11,
+   "sniped": 21
+  },
+  {
+   "rank": 36,
+   "name": "Mirica W.",
+   "sibfam": "Sibfam 7",
+   "points": 14,
+   "snipes": 14,
+   "sniped": 31
+  },
+  {
+   "rank": 36,
+   "name": "Owen Z.",
+   "sibfam": "Sibfam 1",
+   "points": 14,
+   "snipes": 12,
+   "sniped": 75
+  },
+  {
+   "rank": 38,
+   "name": "Ella T.",
+   "sibfam": "Sibfam 7",
+   "points": 12,
+   "snipes": 5,
+   "sniped": 26
+  },
+  {
+   "rank": 39,
+   "name": "Kaitlyn S.",
+   "sibfam": "Sibfam 3",
+   "points": 8,
+   "snipes": 5,
+   "sniped": 59
+  },
+  {
+   "rank": 40,
+   "name": "Diana K.",
+   "sibfam": "Sibfam 5",
+   "points": 7,
+   "snipes": 7,
+   "sniped": 34
+  },
+  {
+   "rank": 41,
+   "name": "Chloe M.",
+   "sibfam": null,
+   "points": 6,
+   "snipes": 6,
+   "sniped": 13
+  },
+  {
+   "rank": 41,
+   "name": "Joy S.",
+   "sibfam": "Sibfam 5",
+   "points": 6,
+   "snipes": 5,
+   "sniped": 37
+  },
+  {
+   "rank": 41,
+   "name": "Brianna Z.",
+   "sibfam": "Sibfam 5",
+   "points": 6,
+   "snipes": 3,
+   "sniped": 59
+  },
+  {
+   "rank": 44,
+   "name": "Chanho L.",
+   "sibfam": "Sibfam 1",
+   "points": 5,
+   "snipes": 5,
+   "sniped": 18
+  },
+  {
+   "rank": 44,
+   "name": "Leanna L.",
+   "sibfam": "Sibfam 2",
+   "points": 5,
+   "snipes": 4,
+   "sniped": 22
+  },
+  {
+   "rank": 46,
+   "name": "Winston C.",
+   "sibfam": "Sibfam 2",
+   "points": 4,
+   "snipes": 4,
+   "sniped": 126
+  },
+  {
+   "rank": 46,
+   "name": "Michelle H.",
+   "sibfam": "Sibfam 3",
+   "points": 4,
+   "snipes": 0,
+   "sniped": 7
+  },
+  {
+   "rank": 48,
+   "name": "Olivia K.",
+   "sibfam": "Sibfam 5",
+   "points": 3,
+   "snipes": 2,
+   "sniped": 28
+  },
+  {
+   "rank": 48,
+   "name": "Lily P.",
+   "sibfam": "Sibfam 4",
+   "points": 3,
+   "snipes": 1,
+   "sniped": 21
+  },
+  {
+   "rank": 48,
+   "name": "Lily S.",
+   "sibfam": "Sibfam 2",
+   "points": 3,
+   "snipes": 0,
+   "sniped": 8
+  },
+  {
+   "rank": 51,
+   "name": "Chloe C.",
+   "sibfam": "Sibfam 4",
+   "points": 2,
+   "snipes": 1,
+   "sniped": 43
+  },
+  {
+   "rank": 51,
+   "name": "Toby",
+   "sibfam": "Sibfam 1",
+   "points": 2,
+   "snipes": 1,
+   "sniped": 39
+  },
+  {
+   "rank": 53,
+   "name": "王冀予 '.",
+   "sibfam": "Sibfam 1",
+   "points": 1,
+   "snipes": 0,
+   "sniped": 48
+  }
+ ],
+ "week": {
+  "since": "2026-11-12",
+  "snipes": 64,
+  "people": [
+   {
+    "rank": 1,
+    "name": "Benjamin M.",
+    "sibfam": "Sibfam 6",
+    "points": 15,
+    "snipes": 11,
+    "sniped": 5
+   },
+   {
+    "rank": 2,
+    "name": "Kaitlyn C.",
+    "sibfam": "Sibfam 4",
+    "points": 11,
+    "snipes": 9,
+    "sniped": 3
+   },
+   {
+    "rank": 3,
+    "name": "Emmie Z.",
+    "sibfam": "Sibfam 4",
+    "points": 7,
+    "snipes": 6,
+    "sniped": 2
+   },
+   {
+    "rank": 3,
+    "name": "Sophia L.",
+    "sibfam": "Sibfam 4",
+    "points": 7,
+    "snipes": 5,
+    "sniped": 0
+   },
+   {
+    "rank": 5,
+    "name": "Bruce T.",
+    "sibfam": "Sibfam 6",
+    "points": 5,
+    "snipes": 4,
+    "sniped": 1
+   },
+   {
+    "rank": 5,
+    "name": "Andrew J.",
+    "sibfam": "Sibfam 6",
+    "points": 5,
+    "snipes": 3,
+    "sniped": 2
+   },
+   {
+    "rank": 7,
+    "name": "Cecilia X.",
+    "sibfam": "Sibfam 1",
+    "points": 4,
+    "snipes": 4,
+    "sniped": 4
+   },
+   {
+    "rank": 7,
+    "name": "Katherina H.",
+    "sibfam": "Sibfam 6",
+    "points": 4,
+    "snipes": 1,
+    "sniped": 2
+   },
+   {
+    "rank": 9,
+    "name": "Jordan C.",
+    "sibfam": "Sibfam 2",
+    "points": 3,
+    "snipes": 3,
+    "sniped": 1
+   },
+   {
+    "rank": 9,
+    "name": "Daniel P.",
+    "sibfam": "Sibfam 2",
+    "points": 3,
+    "snipes": 3,
+    "sniped": 0
+   },
+   {
+    "rank": 9,
+    "name": "Suzanne X.",
+    "sibfam": "Sibfam 4",
+    "points": 3,
+    "snipes": 3,
+    "sniped": 0
+   },
+   {
+    "rank": 12,
+    "name": "Baochan F.",
+    "sibfam": "Sibfam 5",
+    "points": 2,
+    "snipes": 2,
+    "sniped": 0
+   },
+   {
+    "rank": 12,
+    "name": "Kevin L.",
+    "sibfam": "Sibfam 2",
+    "points": 2,
+    "snipes": 2,
+    "sniped": 4
+   },
+   {
+    "rank": 12,
+    "name": "Emily M",
+    "sibfam": "Sibfam 3",
+    "points": 2,
+    "snipes": 2,
+    "sniped": 0
+   },
+   {
+    "rank": 12,
+    "name": "Andy Y.",
+    "sibfam": "Sibfam 4",
+    "points": 2,
+    "snipes": 1,
+    "sniped": 4
+   },
+   {
+    "rank": 12,
+    "name": "William Z.",
+    "sibfam": "Sibfam 6",
+    "points": 2,
+    "snipes": 0,
+    "sniped": 3
+   },
+   {
+    "rank": 17,
+    "name": "Eric B.",
+    "sibfam": "Sibfam 6",
+    "points": 1,
+    "snipes": 1,
+    "sniped": 4
+   },
+   {
+    "rank": 17,
+    "name": "Andrew C.",
+    "sibfam": "Sibfam 3",
+    "points": 1,
+    "snipes": 1,
+    "sniped": 0
+   },
+   {
+    "rank": 17,
+    "name": "Katherine C.",
+    "sibfam": "Sibfam 7",
+    "points": 1,
+    "snipes": 1,
+    "sniped": 0
+   },
+   {
+    "rank": 17,
+    "name": "Ella T.",
+    "sibfam": "Sibfam 7",
+    "points": 1,
+    "snipes": 1,
+    "sniped": 0
+   },
+   {
+    "rank": 17,
+    "name": "Alice Y.",
+    "sibfam": "Sibfam 7",
+    "points": 1,
+    "snipes": 1,
+    "sniped": 3
+   }
+  ]
+ },
+ "sibfams": [
+  {
+   "rank": 1,
+   "name": "Sibfam 4",
+   "members": 8,
+   "points": 903,
+   "per_member": "112.88"
+  },
+  {
+   "rank": 2,
+   "name": "Sibfam 6",
+   "members": 8,
+   "points": 901,
+   "per_member": "112.62"
+  },
+  {
+   "rank": 3,
+   "name": "Sibfam 2",
+   "members": 8,
+   "points": 330,
+   "per_member": "41.25"
+  },
+  {
+   "rank": 4,
+   "name": "Sibfam 7",
+   "members": 6,
+   "points": 241,
+   "per_member": "40.17"
+  },
+  {
+   "rank": 5,
+   "name": "Sibfam 3",
+   "members": 8,
+   "points": 255,
+   "per_member": "31.88"
+  },
+  {
+   "rank": 6,
+   "name": "Sibfam 1",
+   "members": 8,
+   "points": 235,
+   "per_member": "29.38"
+  },
+  {
+   "rank": 7,
+   "name": "Sibfam 5",
+   "members": 7,
+   "points": 103,
+   "per_member": "14.71"
+  }
+ ],
+ "most_sniped": [
+  {
+   "rank": 1,
+   "name": "Winston C.",
+   "sibfam": "Sibfam 2",
+   "sniped": 126
+  },
+  {
+   "rank": 2,
+   "name": "Andy Y.",
+   "sibfam": "Sibfam 4",
+   "sniped": 112
+  },
+  {
+   "rank": 3,
+   "name": "Kevin L.",
+   "sibfam": "Sibfam 2",
+   "sniped": 109
+  },
+  {
+   "rank": 4,
+   "name": "Raiden C.",
+   "sibfam": "Sibfam 1",
+   "sniped": 97
+  },
+  {
+   "rank": 5,
+   "name": "Eric B.",
+   "sibfam": "Sibfam 6",
+   "sniped": 91
+  },
+  {
+   "rank": 6,
+   "name": "Bruce T.",
+   "sibfam": "Sibfam 6",
+   "sniped": 81
+  },
+  {
+   "rank": 7,
+   "name": "Cecilia X.",
+   "sibfam": "Sibfam 1",
+   "sniped": 80
+  },
+  {
+   "rank": 8,
+   "name": "William Z.",
+   "sibfam": "Sibfam 6",
+   "sniped": 79
+  },
+  {
+   "rank": 9,
+   "name": "Benjamin M.",
+   "sibfam": "Sibfam 6",
+   "sniped": 78
+  },
+  {
+   "rank": 10,
+   "name": "Owen Z.",
+   "sibfam": "Sibfam 1",
+   "sniped": 75
+  }
+ ]
+}
